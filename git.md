@@ -37,6 +37,8 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+Ссылка
+https://github.com/KaifasKainChaos/git-homework/commit/19a998bd58f474fddc59d986a33590bc0c435cfa
 ---
 
 ### Задание 2
